@@ -5,6 +5,8 @@ A multimedia catalogue ordered by Kermanshah Chamber of Commerce which is writte
 
 For screenshots please [visit here](Screenshots.md).
 
+Note: This branch does not include cards database and search functionality and have a few other minor differences from the master one.
+
 
 ## License
 
